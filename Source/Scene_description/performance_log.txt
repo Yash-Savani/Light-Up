@@ -138,3 +138,45 @@ SESSION: Sat Jun 13 20:20:20 2026 | MODEL: Florence-2-8bit
 ============================================================
 [20:20:28] A man holding a bottle of body lotion in his hand.
  > Latency: 2.81s | RAM: 2609.7MB | CPU: 0.0% | Device: cpu-int8
+
+============================================================
+SESSION: Sat Jun 13 20:27:30 2026 | MODEL: Florence-2 (8-bit)
+============================================================
+[20:27:54] The image shows a man holding a tube of toothpaste
+ > Latency: 5.18s | RAM: 2648.4MB | CPU: 0.0% | Device: cpu (8-bit)
+
+============================================================
+SESSION START: Sat Jun 13 20:50:02 2026
+MODEL: Salesforce/blip-image-captioning-base
+HARDWARE: System CPU (cpu)
+RESOLUTION: 1280x720 | PRECISION: torch.float32
+------------------------------------------------------------
+[20:50:11] A man holding a tube of tooth paste.
+ > Latency: 2.32s | RAM: 1481.4MB | CPU: 14.2% | Device: cpu
+SESSION END: Sat Jun 13 20:50:27 2026
+
+============================================================
+SESSION: Sat Jun 13 20:50:49 2026 | MODEL: Florence-2-8bit
+============================================================
+[20:50:57] A man holding a tube of multivitamin toothpaste
+ > Latency: 3.45s | RAM: 2602.9MB | CPU: 0.0% | Device: cpu-int8
+[20:51:16] A man holding a tube of toothpaste in his hand.
+ > Latency: 2.86s | RAM: 2619.4MB | CPU: 0.0% | Device: cpu-int8
+
+============================================================
+SESSION: Sat Jun 13 20:51:45 2026 | MODEL: Florence-2-8bit
+============================================================
+[20:51:56] A man holding up a bottle of body wash.
+ > Latency: 2.76s | RAM: 2610.5MB | CPU: 0.0% | Device: cpu-int8
+[20:52:04] A man holding a bottle of body lotion in his hand.
+ > Latency: 2.87s | RAM: 2619.8MB | CPU: 0.0% | Device: cpu-int8
+
+============================================================
+SESSION START: Sat Jun 13 20:52:25 2026
+MODEL: Salesforce/blip-image-captioning-base
+HARDWARE: System CPU (cpu)
+RESOLUTION: 1280x720 | PRECISION: torch.float32
+------------------------------------------------------------
+[20:52:37] A man holding up a bottle of water.
+ > Latency: 3.39s | RAM: 1474.1MB | CPU: 13.2% | Device: cpu
+SESSION END: Sat Jun 13 20:53:10 2026
