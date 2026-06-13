@@ -180,3 +180,51 @@ RESOLUTION: 1280x720 | PRECISION: torch.float32
 [20:52:37] A man holding up a bottle of water.
  > Latency: 3.39s | RAM: 1474.1MB | CPU: 13.2% | Device: cpu
 SESSION END: Sat Jun 13 20:53:10 2026
+
+============================================================
+SESSION: Sat Jun 13 21:30:18 2026 | MODEL: Qwen2-VL-2B
+============================================================
+
+============================================================
+SESSION: Sat Jun 13 21:33:47 2026 | MODEL: Qwen2-VL-2B
+============================================================
+[21:38:48] A person is holding a tube of Multivitamin with a
+ > Latency: 293.14s | RAM: 4899.7MB | CPU: 0.0% | Device: cpu-qwen
+
+============================================================
+SESSION: Sat Jun 13 22:13:28 2026 | MODEL: Qwen2-VL-2B
+============================================================
+[22:18:40] A man is holding a tube of multivitamin
+ > Latency: 306.73s | RAM: 4472.7MB | CPU: 0.0% | Device: cpu-qwen
+[22:30:51] A man is holding a multivitamin tube in front of
+ > Latency: 315.95s | RAM: 4554.2MB | CPU: 0.0% | Device: cpu-qwen
+
+============================================================
+SESSION: Sat Jun 13 22:34:26 2026 | MODEL: Florence-2-8bit
+============================================================
+[22:34:35] A man holding a tube of multivitamin in his hand.
+ > Latency: 2.81s | RAM: 2581.7MB | CPU: 0.0% | Device: cpu-int8
+[22:34:43] A man holding a tube of multivitamin toothpaste
+ > Latency: 2.65s | RAM: 2600.2MB | CPU: 0.0% | Device: cpu-int8
+[22:34:49] A man holding a tube of multivitamin toothpaste
+ > Latency: 2.64s | RAM: 2614.8MB | CPU: 0.0% | Device: cpu-int8
+[22:35:01] A man holding a tube of toothpaste in his hand.
+ > Latency: 2.41s | RAM: 2629.9MB | CPU: 0.0% | Device: cpu-int8
+[22:35:04] A man in a gray shirt is holding up his hand.
+ > Latency: 2.40s | RAM: 2644.1MB | CPU: 0.0% | Device: cpu-int8
+
+============================================================
+SESSION: Sat Jun 13 22:51:24 2026 | QWEN2-VL-SAFE-8BIT
+============================================================
+[22:51:55] A man is holding a tube of Multivitamin.
+ > Latency: 17.01s | RAM: 7114.0MB | CPU: 0.0% | Device: cpu-qwen-safe8
+[22:52:19] A man is taking a selfie with a smartphone.
+ > Latency: 12.58s | RAM: 7279.5MB | CPU: 0.0% | Device: cpu-qwen-safe8
+[22:53:05] The image shows a person holding a phone up to
+ > Latency: 12.78s | RAM: 7323.1MB | CPU: 0.0% | Device: cpu-qwen-safe8
+
+============================================================
+SESSION: Sat Jun 13 22:56:03 2026 | QWEN2-VL-SAFE-8BIT
+============================================================
+[22:57:02] A man is taking a selfie with a smartphone.
+ > Latency: 18.13s | RAM: 7903.6MB | CPU: 0.0% | Device: cpu-qwen-safe8
