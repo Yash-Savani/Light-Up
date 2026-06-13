@@ -1,0 +1,26 @@
+
+============================================================
+SESSION START: Sat Jun 13 19:04:27 2026
+MODEL: microsoft/Florence-2-base (INT8 Quantized)
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+[19:04:33] Inference Error: Input type (float) and bias type (struct c10::Half) should be the same
+ > Latency: 0.05s | RAM: 1078.0MB | CPU: 8.4% | Device: cpu-int8
+
+============================================================
+SESSION START: Sat Jun 13 19:09:18 2026
+MODEL: microsoft/Florence-2-base (INT8 Quantized)
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+
+============================================================
+SESSION START: Sat Jun 13 19:09:52 2026
+MODEL: microsoft/Florence-2-base (INT8 Quantized)
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+
+============================================================
+SESSION START: Sat Jun 13 19:11:57 2026
+MODEL: microsoft/Florence-2-base (INT8 Quantized)
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------

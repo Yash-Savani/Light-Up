@@ -1,0 +1,92 @@
+
+============================================================
+SESSION START: Sat Jun 13 17:45:37 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu
+------------------------------------------------------------
+[17:45:50] A man holding up a bottle of Balea Urea body
+ > Latency: 4.20s | RAM: 1309.0MB | CPU: 9.8% | Device: cpu
+[17:45:58] A man holding a tube of toothpaste in his hand.
+ > Latency: 3.72s | RAM: 1776.2MB | CPU: 33.7% | Device: cpu
+[17:46:04] A man holding up a box of multivitamin in front
+ > Latency: 4.21s | RAM: 1800.4MB | CPU: 39.0% | Device: cpu
+
+============================================================
+SESSION START: Sat Jun 13 17:57:09 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu
+------------------------------------------------------------
+[17:57:21] A man holding up a bottle of deodorant in his
+ > Latency: 4.24s | RAM: 1278.5MB | CPU: 7.4% | Device: cpu
+
+============================================================
+SESSION START: Sat Jun 13 17:59:19 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+[17:59:25] A man holding up a bottle of baby shampoo.
+ > Latency: 3.30s | RAM: 2079.7MB | CPU: 12.9% | Device: cpu-int8
+[17:59:29] A man standing in a room with a white wall.
+ > Latency: 3.05s | RAM: 2446.1MB | CPU: 73.5% | Device: cpu-int8
+[17:59:43] A man holding up a bottle of body lot lot lotion.
+ > Latency: 3.27s | RAM: 2452.4MB | CPU: 29.9% | Device: cpu-int8
+[17:59:58] A man holding a tube of tooth toothpaste in his
+ > Latency: 3.65s | RAM: 2458.2MB | CPU: 29.1% | Device: cpu-int8
+
+============================================================
+SESSION START: Sat Jun 13 18:53:34 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+[18:53:44] A man holding a tube of toothpaste in his hand.
+ > Latency: 3.26s | RAM: 2078.6MB | CPU: 22.4% | Device: cpu-int8
+[18:53:59] A man holding a tube of multivitamin in his hand.
+ > Latency: 3.29s | RAM: 2452.2MB | CPU: 28.6% | Device: cpu-int8
+[18:54:09] A person holding a white box with a blue logo...
+ > Latency: 3.32s | RAM: 2461.8MB | CPU: 39.6% | Device: cpu-int8
+[18:54:30] A man holding a blue and black electric shaver...
+ > Latency: 3.72s | RAM: 2460.7MB | CPU: 25.1% | Device: cpu-int8
+[18:54:52] A man holding up a cell phone in his hand.
+ > Latency: 3.43s | RAM: 2470.7MB | CPU: 24.6% | Device: cpu-int8
+
+============================================================
+SESSION: Sat Jun 13 19:23:59 2026 | MODEL: Florence-2 (8-bit)
+============================================================
+[19:24:13] The image shows a man holding a tube of tooth toothpaste in his hand, with a toothpaste tube in the center of the image. The toothpaste is white, and the man is wearing a blue shirt.
+ > Latency: 7.27s | RAM: 3989.2MB | CPU: 0.0% | Mode: 8-bit Quant
+
+============================================================
+SESSION: Sat Jun 13 19:28:21 2026 | MODEL: Florence-2 (8-bit)
+============================================================
+[19:28:39] The image shows a man holding a tube of toothpaste
+ > Latency: 5.60s | RAM: 3973.6MB | CPU: 0.0% | Device: cpu (8-bit)
+[19:29:09] The image shows a man holding a bottle of body lot
+ > Latency: 5.59s | RAM: 4434.7MB | CPU: 0.0% | Device: cpu (8-bit)
+
+============================================================
+SESSION START: Sat Jun 13 19:30:18 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu-int8
+------------------------------------------------------------
+[19:30:25] A man holding up a bottle of body lot lotion.
+ > Latency: 3.30s | RAM: 2081.0MB | CPU: 11.8% | Device: cpu-int8
+
+============================================================
+SESSION START: Sat Jun 13 19:31:25 2026
+MODEL: microsoft/Florence-2-base
+RESOLUTION: 1280x720 | HARDWARE: cpu
+------------------------------------------------------------
+[19:31:33] A man holding up a bottle of body lotion.
+ > Latency: 3.42s | RAM: 1277.8MB | CPU: 7.0% | Device: cpu
+[19:31:55] A man holding a tube of toothpaste in his hand.
+ > Latency: 3.47s | RAM: 1709.4MB | CPU: 15.4% | Device: cpu
+
+============================================================
+SESSION: Sat Jun 13 19:37:01 2026 | MODEL: Florence-2 (8-bit)
+============================================================
+
+============================================================
+SESSION: Sat Jun 13 19:40:57 2026 | MODEL: Florence-2 (8-bit)
+============================================================
+[19:41:19] The image shows a man holding a tube of tooth toot
+ > Latency: 5.26s | RAM: 2647.9MB | CPU: 0.0% | Device: cpu (8-bit)
