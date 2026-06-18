@@ -52,3 +52,21 @@ This project has been developed and maintained by the following contributors:
 - Rudra Trivedi 
 
 Each contributor has played a vital role in bringing this vision assistance system to life, combining expertise in computer vision, machine learning, and accessibility technologies.
+
+
+
+## Start Project 
+Terminal 1: Start the Backend (The Brains)
+  cd Vision-Assistant 
+  cd server
+  source venv_server/bin/activate
+  python start_server.py
+
+Terminal 2: Start the Frontend (The Face)
+  cd Vision-Assistant
+  cd client
+  source venv_client/bin/activate
+  python start_client.py
+
+
+# Project will be activated on this local host http://localhost:8501

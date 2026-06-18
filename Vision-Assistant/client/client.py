@@ -76,24 +76,11 @@ class VisionApp:
             }
 
             # Send request to server
-            
-            # Send request to modular backend routes
-            endpoint_map = {
-                "face": f"{SERVER_URL}/face/recognize",
-                "object": f"{SERVER_URL}/object/detect",
-                "scene": f"{SERVER_URL}/scene/describe"
-            }
-
-            endpoint = endpoint_map.get(mode)
-
-            print(f"Sending POST request to: {endpoint}")
-
+            print(f"Sending POST request to: {SERVER_URL}/process_frame")
             response = requests.post(
-                endpoint,
-                json={
-                    "frame_data": frame_b64
-                },
-                timeout=10.0
+                f"{SERVER_URL}/process_frame",
+                json=request_data,
+                timeout=5.0
             )
 
             print(f"Response status code: {response.status_code}")
