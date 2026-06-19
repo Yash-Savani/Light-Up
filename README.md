@@ -69,4 +69,4 @@ Terminal 2: Start the Frontend (The Face)
   python start_client.py
 
 
-# Project will be activated on this local host http://localhost:8501
+# Project will be activated on this local host http://localhost:8501# Light-Up
